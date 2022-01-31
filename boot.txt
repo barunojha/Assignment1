@@ -1,0 +1,4 @@
+Gurzu boot going on.
+It is 6th boot camp.
+It is Day 1.
+We learned Linux.
